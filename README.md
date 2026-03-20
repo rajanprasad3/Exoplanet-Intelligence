@@ -2,6 +2,8 @@
 
 A production-ready full-stack web application for the Innorave Eco-Hackathon. This system provides machine learning-powered predictions for exoplanet classification and radius estimation using NASA Kepler mission data.
 
+##Live Application: http://exoplanet-intelligence.vercel.app/
+
 ## 🚀 Features
 
 ### Classification Task
